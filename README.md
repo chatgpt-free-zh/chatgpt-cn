@@ -1,5 +1,5 @@
 
-# 【2025年4月】国内如何使用ChatGPT？
+# ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3 和 Claude3.7、Grok-3、DeepSeek R1，无需翻墙）【4月最新更新】
 
 *更新日期：2025-04-25*
 
