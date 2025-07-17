@@ -5,240 +5,301 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="国内使用ChatGPT的完整指南，包含6种可靠方法帮助您在中国访问OpenAI的ChatGPT AI模型。">
     <meta name="keywords" content="ChatGPT, OpenAI, 人工智能助手, ChatGPT 国内, AI语言模型, GPT-4o, 人工智能">
-    <title>【2025年4月】国内如何使用ChatGPT？6种实用方法 | OpenAI助手</title>
+    <title>【<script>document.write(new Date().getFullYear() + '年' + (new Date().getMonth() + 1) + '月')</script>】国内如何使用ChatGPT？6种实用方法 | OpenAI助手</title>
     <style>
         :root {
-            --primary-color: #6366f1;
-            --secondary-color: #4f46e5;
-            --accent-color: #818cf8;
-            --text-color: #1f2937;
-            --light-text: #4b5563;
-            --lighter-text: #6b7280;
-            --bg-color: #ffffff;
-            --light-bg: #f9fafb;
-            --border-color: #e5e7eb;
+            --primary-color: #5B21B6;
+            --secondary-color: #4C1D95;
+            --accent-color: #7C3AED;
+            --text-color: #1F2937;
+            --light-text: #4B5563;
+            --lighter-text: #6B7280;
+            --bg-color: #F9FAFB;
+            --light-bg: #F3F4F6;
+            --border-color: #D1D5DB;
         }
-        
+
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-        
+
         body {
             font-family: 'PingFang SC', 'Helvetica Neue', Arial, sans-serif;
-            line-height: 1.7;
+            line-height: 1.8;
             color: var(--text-color);
-            background-color: var(--light-bg);
+            background-color: var(--bg-color);
         }
-        
+
         .container {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 0 20px;
-            background: var(--bg-color);
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-            border-radius: 8px;
+            max-width: 1100px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+            background: white;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
         }
-        
+
         header {
             background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
             color: white;
-            padding: 40px 20px;
+            padding: 3rem 2rem;
             text-align: center;
-            border-radius: 8px 8px 0 0;
+            border-radius: 12px 12px 0 0;
+            position: relative;
+            overflow: hidden;
         }
-        
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at 10% 20%, rgba(255, 255, 255, 0.2) 0%, transparent 50%);
+            opacity: 0.5;
+        }
+
         header h1 {
-            margin-bottom: 15px;
-            font-size: 2.4rem;
-            font-weight: 700;
+            margin-bottom: 1rem;
+            font-size: 2.8rem;
+            font-weight: 800;
+            position: relative;
         }
-        
+
         .update-date {
             font-style: italic;
-            opacity: 0.9;
-            margin-bottom: 20px;
+            font-size: 1rem;
+            opacity: 0.85;
+            margin-bottom: 1.5rem;
+            position: relative;
         }
-        
+
         main {
-            padding: 30px 40px 60px;
+            padding: 3rem 2.5rem 4rem;
         }
-        
+
         .intro {
-            background-color: #f0f4ff;
-            border-left: 4px solid var(--primary-color);
-            padding: 20px;
-            margin-bottom: 30px;
-            border-radius: 0 8px 8px 0;
+            background-color: #EDF2FF;
+            border-left: 5px solid var(--primary-color);
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            border-radius: 0 10px 10px 0;
+            transition: transform 0.3s ease;
         }
-        
+
+        .intro:hover {
+            transform: translateX(5px);
+        }
+
         h2 {
             color: var(--primary-color);
-            margin: 40px 0 20px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid var(--border-color);
-            font-size: 1.8rem;
+            margin: 3rem 0 1.5rem;
+            padding-bottom: 0.75rem;
+            border-bottom: 3px solid var(--border-color);
+            font-size: 2rem;
+            font-weight: 700;
         }
-        
+
         h3 {
             color: var(--secondary-color);
-            margin: 25px 0 15px;
-            font-size: 1.4rem;
-        }
-        
-        p {
-            margin-bottom: 15px;
-        }
-        
-        ul, ol {
-            margin: 15px 0 25px 20px;
-        }
-        
-        li {
-            margin-bottom: 10px;
-        }
-        
-        .highlight {
+            margin: 2rem 0 1rem;
+            font-size: 1.6rem;
             font-weight: 600;
+        }
+
+        p {
+            margin-bottom: 1.2rem;
+            font-size: 1.1rem;
+        }
+
+        ul, ol {
+            margin: 1.2rem 0 2rem 1.5rem;
+        }
+
+        li {
+            margin-bottom: 0.8rem;
+            font-size: 1.05rem;
+        }
+
+        .highlight {
+            font-weight: 700;
             color: var(--secondary-color);
+            background: linear-gradient(180deg, transparent 60%, #E9D5FF 60%);
+            padding: 0 0.2rem;
         }
-        
+
         .separator {
-            height: 1px;
-            background-color: var(--border-color);
-            margin: 30px 0;
+            height: 2px;
+            background: linear-gradient(to right, transparent, var(--border-color), transparent);
+            margin: 2.5rem 0;
         }
-        
+
         table {
             width: 100%;
-            border-collapse: collapse;
-            margin: 25px 0;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin: 2rem 0;
+            border-radius: 8px;
+            overflow: hidden;
         }
-        
+
         table th, table td {
-            padding: 12px 15px;
+            padding: 1rem;
             text-align: left;
-            border: 1px solid var(--border-color);
+            border: none;
+            border-bottom: 1px solid var(--border-color);
         }
-        
+
         table th {
-            background-color: #f3f4f6;
-            font-weight: 600;
+            background-color: var(--light-bg);
+            font-weight: 700;
+            color: var(--text-color);
         }
-        
-        table tr:nth-child(even) {
-            background-color: #fafafa;
+
+        table tr {
+            transition: background-color 0.3s ease;
         }
-        
+
+        table tr:hover {
+            background-color: #F1F5F9;
+        }
+
         a {
             color: var(--primary-color);
             text-decoration: none;
-            font-weight: 500;
-            transition: color 0.2s;
+            font-weight: 600;
+            transition: color 0.3s ease, transform 0.2s ease;
         }
-        
+
         a:hover {
             color: var(--secondary-color);
             text-decoration: underline;
+            transform: translateY(-1px);
         }
-        
+
         .method-card {
             background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-            padding: 20px;
-            margin-bottom: 30px;
-            border-left: 4px solid var(--accent-color);
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            border-left: 5px solid var(--accent-color);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
-        
+
+        .method-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+        }
+
         .method-title {
             display: flex;
             align-items: center;
-            margin-bottom: 15px;
+            margin-bottom: 1rem;
         }
-        
+
         .method-number {
             background-color: var(--accent-color);
             color: white;
-            width: 30px;
-            height: 30px;
+            width: 2.5rem;
+            height: 2.5rem;
             border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             font-weight: bold;
-            margin-right: 15px;
+            margin-right: 1rem;
+            font-size: 1.2rem;
         }
-        
+
         .pros {
-            background-color: #f0fff4;
-            border-radius: 6px;
-            padding: 15px 20px;
-            margin-top: 15px;
-            border-left: 3px solid #10b981;
+            background-color: #ECFDF5;
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin-top: 1rem;
+            border-left: 4px solid #10B981;
         }
-        
+
         .pros-title {
-            font-weight: 600;
+            font-weight: 700;
             color: #059669;
-            margin-bottom: 10px;
+            margin-bottom: 0.8rem;
+            font-size: 1.1rem;
         }
-        
+
         .faq-item {
-            margin-bottom: 20px;
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            background: #F8FAFC;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
         }
-        
+
+        .faq-item:hover {
+            background: #EDF2FF;
+        }
+
         .faq-question {
-            font-weight: 600;
+            font-weight: 700;
             color: var(--primary-color);
-            margin-bottom: 8px;
+            margin-bottom: 0.5rem;
+            font-size: 1.15rem;
         }
-        
+
         footer {
             text-align: center;
-            padding: 30px;
+            padding: 2rem;
             color: var(--lighter-text);
-            font-size: 0.9rem;
+            font-size: 0.95rem;
             background: var(--light-bg);
-            border-radius: 0 0 8px 8px;
+            border-radius: 0 0 12px 12px;
         }
-        
+
         .button {
             display: inline-block;
-            background-color: var(--primary-color);
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
             color: white;
-            padding: 10px 20px;
-            border-radius: 4px;
-            font-weight: 500;
-            margin-top: 10px;
-            transition: background-color 0.2s;
+            padding: 0.8rem 1.5rem;
+            border-radius: 6px;
+            font-weight: 600;
+            margin-top: 0.8rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
-        
+
         .button:hover {
-            background-color: var(--secondary-color);
+            background: var(--secondary-color);
             text-decoration: none;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
         }
-        
+
         @media (max-width: 768px) {
             .container {
-                padding: 0 15px;
+                padding: 0 1rem;
+                margin: 1rem;
             }
-            
+
             main {
-                padding: 20px;
+                padding: 1.5rem;
             }
-            
+
             header h1 {
-                font-size: 2rem;
+                font-size: 2.2rem;
             }
-            
+
             h2 {
-                font-size: 1.6rem;
+                font-size: 1.8rem;
             }
-            
+
             h3 {
-                font-size: 1.3rem;
+                font-size: 1.4rem;
+            }
+
+            .method-card {
+                padding: 1rem;
             }
         }
     </style>
@@ -246,8 +307,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>【2025年4月】国内如何使用ChatGPT？</h1>
-            <div class="update-date">更新日期：2025-04-25</div>
+            <h1>【<script>document.write(new Date().getFullYear() + '年' + (new Date().getMonth() + 1) + '月')</script>】国内如何使用ChatGPT？</h1>
+            <div class="update-date">更新日期：<script>document.write(new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\//g, '-'))</script></div>
             <p>6种简单的方法帮助您在中国访问OpenAI的领先ChatGPT GPT-4o模型</p>
         </header>
         
@@ -302,14 +363,14 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td><strong><a href="https://chat.yixiaai.com" target="_blank">一下 AI</a></strong></td>
+                                <td><strong><a href="https://xsimplechat.com" target="_blank">一下 AI</a></strong></td>
                                 <td>支持ChatGPT GPT-4o、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、AI 翻译、联网查询等功能</td>
-                                <td><a href="https://chat.yixiaai.com" target="_blank" class="button">点击访问</a></td>
+                                <td><a href="https://xsimplechat.com" target="_blank" class="button">点击访问</a></td>
                             </tr>
                             <tr>
-                                <td><strong><a href="https://chat.chatgpt-chinese.com/" target="_blank">蓝鲸 AI</a></strong></td>
+                                <td><strong><a href="https://chat.lanjingai.org/" target="_blank">蓝鲸 AI</a></strong></td>
                                 <td>ChatGPT GPT-4o、GPT-4.0、GPT-4o 绘图、GPT-o3、Gemini 2.5 Pro、DeepSeek 满血版、Grok-3、Midjourney、高效简洁</td>
-                                <td><a href="https://chat.chatgpt-chinese.com/" target="_blank" class="button">点击访问</a></td>
+                                <td><a href="https://chat.lanjingai.org/" target="_blank" class="button">点击访问</a></td>
                             </tr>
                             <tr>
                                 <td><strong><a href="https://deepseek-free.org/" target="_blank">智惠聚合 AI</a></strong></td>
@@ -350,7 +411,7 @@
                         <h3>通过国内AI工具客户端访问</h3>
                     </div>
                     <p>对于那些需要更稳定使用ChatGPT的小伙伴，可以尝试下载国内开发的AI工具客户端。</p>
-                    <p>例如：<a href="https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi" target="_blank">智惠岛AI客户端</a>。</p>
+                    <p>例如：<a href="https://xsimplechat.com/app_client/XSimpleChat-windows.zip" target="_blank">智惠岛ню</a>岛AI客户端</p>
                     <div class="pros">
                         <div class="pros-title">优点：</div>
                         <ul>
@@ -428,7 +489,7 @@
                 </div>
                 <div class="faq-item">
                     <div class="faq-question">2. 国内稳定使用ChatGPT的最佳选择是什么？</div>
-                    <div class="faq-answer">答：建议使用<a href="https://chat.yixiaai.com" target="_blank">一下AI平台</a>，功能齐全且易用。</div>
+                    <div class="faq-answer">答：建议使用<a href="https://xsimplechat.com" target="_blank">一下AI平台</a>，功能齐全且易用。</div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-question">3. ChatGPT支持哪些语言？</div>
@@ -450,7 +511,7 @@
         </main>
         
         <footer>
-            <p>最后更新: 2025-04-25 | ChatGPT, OpenAI使用指南</p>
+            <p>最后更新: <script>document.write(new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: '2-digit', day: '2-digit' }).replace(/\//g, '-'))</script> | ChatGPT, OpenAI使用指南</p>
             <p>本文仅供参考，请遵守相关法律法规使用AI工具</p>
         </footer>
     </div>
