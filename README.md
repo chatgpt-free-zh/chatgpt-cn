@@ -1,7 +1,7 @@
 
-# ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3 和 Claude3.7、Grok-3、DeepSeek R1，无需翻墙）【4月最新更新】
+# ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Claude3.7、Grok-3、DeepSeek R1 无需翻墙）【7月最新更新】
 
-*更新日期：2025-04-25*
+*更新日期：2025-07-18*
 
 6种简单的方法帮助您在中国访问OpenAI的领先ChatGPT GPT-4o模型
 
@@ -47,8 +47,8 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
 
 | 网站名称 | 功能支持 | 访问链接 |
 |----------|----------|----------|
-| **[一下 AI](https://chat.yixiaai.com)** | 支持ChatGPT GPT-4o、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、AI 翻译、联网查询等功能 | [点击访问](https://chat.yixiaai.com) |
-| **[蓝鲸 AI](https://chat.chatgpt-chinese.com/)** | ChatGPT GPT-4o、GPT-4.0、GPT-4o 绘图、GPT-o3、Gemini 2.5 Pro、DeepSeek 满血版、Grok-3、Midjourney、高效简洁 | [点击访问](https://chat.chatgpt-chinese.com/) |
+| **[一下 AI](https://xsimplechat.com)** | 支持ChatGPT GPT-4o、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、AI 翻译、联网查询等功能 | [点击访问](https://xsimplechat.com) |
+| **[蓝鲸 AI](https://chat.lanjingai.org/)** | ChatGPT GPT-4o、GPT-4.0、GPT-4o 绘图、GPT-o3、Gemini 2.5 Pro、DeepSeek 满血版、Grok-3、Midjourney、高效简洁 | [点击访问](https://chat.lanjingai.org/) |
 | **[智惠聚合 AI](https://deepseek-free.org/)** | ChatGPT、DeepSeek满血版、Grok-3等模型全解锁 | [点击访问](https://deepseek-free.org/) |
 
 **优点：**
@@ -70,7 +70,7 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
 
 对于那些需要更稳定使用ChatGPT的小伙伴，可以尝试下载国内开发的AI工具客户端。
 
-**例如**：[智惠岛AI客户端](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)
+**例如**：[智惠岛AI客户端](https://xsimplechat.com)
 
 **优点：**
 - 稳定可靠，无需浏览器运行。
@@ -78,7 +78,7 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
 
 ### 4. Edge浏览器插件轻松上手ChatGPT
 
-如果你习惯用浏览器工作，直接安装支持ChatGPT的插件也是一个不错的选择，比如通过Microsoft Edge提供的 [ChatGPT中文版插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil)。
+如果你习惯用浏览器工作，直接安装支持ChatGPT的插件也是一个不错的选择，比如通过Microsoft Edge提供的 [ChatGPT中文版插件](https://xsimplechat.com)。
 
 **优点：**
 - 不额外开窗口，浏览器即插即用。
@@ -120,7 +120,7 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
    答：ChatGPT在对话流畅性和多场景应用上表现突出，适合学习、创作等任务。
 
 2. **国内稳定使用ChatGPT的最佳选择是什么？**  
-   答：建议使用[一下AI平台](https://chat.yixiaai.com)，功能齐全且易用。
+   答：建议使用[一下AI平台](https://xsimplechat.com)，功能齐全且易用。
 
 3. **ChatGPT支持哪些语言？**  
    答：目前支持多国语言，包括中文、英文等。
@@ -136,5 +136,5 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
 
 ---
 
-*最后更新: 2025-04-25 | ChatGPT, OpenAI使用指南*  
+*最后更新: 2025-07-18 | ChatGPT, OpenAI使用指南*  
 *本文仅供参考，请遵守相关法律法规使用AI工具*
