@@ -1,7 +1,7 @@
 
 # ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Claude-4-Sonnet、Grok-4、DeepSeek R1 无需翻墙）【7月最新更新】
 
-*更新日期：2025-07-20*
+*更新日期：2025-07-29*
 
 6种简单的方法帮助您在中国访问OpenAI的领先ChatGPT GPT-4o模型
 
