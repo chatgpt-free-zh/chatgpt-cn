@@ -1,15 +1,15 @@
 
-# ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Claude-4-Sonnet、Grok-4、DeepSeek R1 无需翻墙）【7月最新更新】
+# ChatGPT 中文版：国内直连指南（支持GPT-5、GPT-5、GPT-o1、GPT-o3、Claude-4-Sonnet、Grok-4、DeepSeek R1 无需翻墙）【9月最新更新】
 
-*更新日期：2025-07-29*
+*更新日期：2025-09-22*
 
-6种简单的方法帮助您在中国访问OpenAI的领先ChatGPT GPT-4o模型
+6种简单的方法帮助您在中国访问OpenAI的领先ChatGPT GPT-5模型
 
 ---
 
 ## 简介
 
-ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力和广泛的应用场景而备受青睐。它擅长自然语言处理、内容生成以及复杂问题解答。本文将告诉您如何在国内直接使用ChatGPT，目前最强的模型为GPT-4o模型。
+ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力和广泛的应用场景而备受青睐。它擅长自然语言处理、内容生成以及复杂问题解答。本文将告诉您如何在国内直接使用ChatGPT，目前最强的模型为GPT-5模型。
 
 ---
 
@@ -47,8 +47,8 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
 
 | 网站名称 | 功能支持 | 访问链接 |
 |----------|----------|----------|
-| **[一下 AI](https://xsimplechat.com)** | 支持ChatGPT GPT-4o、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、AI 翻译、联网查询等功能 | [点击访问](https://xsimplechat.com) |
-| **[蓝鲸 AI](https://chat.lanjingai.org/)** | ChatGPT GPT-4o、GPT-4.0、GPT-4o 绘图、GPT-o3、Gemini 2.5 Pro、DeepSeek 满血版、Grok-3、Midjourney、高效简洁 | [点击访问](https://chat.lanjingai.org/) |
+| **[一下 AI](https://xsimplechat.com)** | 支持ChatGPT GPT-5、GPT-4.0、GPT-4.1 & mini、GPT-o1、GPT-o3、Gemini 2.5 Pro、Grok-3、DeepSeek r1 满血版、AI PPT、AI 翻译、联网查询等功能 | [点击访问](https://xsimplechat.com) |
+| **[蓝鲸 AI](https://ai.lanjingai.org/)** | ChatGPT GPT-5、GPT-4.0、GPT-5 绘图、GPT-o3、Gemini 2.5 Pro、DeepSeek 满血版、Grok-3、Midjourney、高效简洁 | [点击访问](https://ai.lanjingai.org/) |
 | **[智惠聚合 AI](https://deepseek-free.org/)** | ChatGPT、DeepSeek满血版、Grok-3等模型全解锁 | [点击访问](https://deepseek-free.org/) |
 
 **优点：**
@@ -102,7 +102,7 @@ ChatGPT，作为OpenAI团队开发的语言模型，以其强大的对话能力�
 
 - **保护个人隐私**：避免指定高风险操作。
 - **合理收费**：用正规渠道订阅或服务。
-- **模型版本**：注意持续关注模型更新，比如GPT-4o是否主流。
+- **模型版本**：注意持续关注模型更新，比如GPT-5是否主流。
 
 ---
 
